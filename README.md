@@ -10,14 +10,14 @@ This repository contains two Tableau-based business visualizations created. The 
 ### 📌 Viz 1 – CSL Limited Financial Dashboard  
 [🔗 Click here to view Viz 1](https://public.tableau.com/views/Viz1_SyedMuhammadAhmedZaidi_20972008/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![CSL Dashboard Screenshot](screenshots/viz1_dashboard.png)
+![CSL Dashboard Screenshot](https://github.com/ahmedzaidi24/tableau-financial-visualizations/blob/main/screenshots/viz1_dashboard.png.png)
 
 ---
 
 ### 📌 Viz 2 – Samsung Data Story (3 Dashboards)  
 [🔗 Click here to view Viz 2](https://public.tableau.com/shared/YKCQGMNDN?:display_count=n&:origin=viz_share_link)
 
-![Samsung Story Screenshot](screenshots/viz2_story.png)
+![Samsung Story Screenshot](https://github.com/ahmedzaidi24/tableau-financial-visualizations/blob/main/screenshots/viz2_story.png.png)
 
 ---
 
